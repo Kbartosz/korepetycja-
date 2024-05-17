@@ -1,0 +1,7 @@
+fs    finhish to start 90% zależności zadanie b nie moż esie zaczac jestli a trwa
+ss  start to stqrt ni moze sie zaczac puki sie nie zacznie a
+ff finhish to finhish   b nie moze sie zakonczyc wczesniej niz a 
+sf start to finish  b musi sei skonczyc przed a
+
+
+cpn - okresla wymagane zadania 
